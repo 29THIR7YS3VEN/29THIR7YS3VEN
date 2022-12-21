@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=gamemann&label=Views&color=116262)
+![](https://komarev.com/ghpvc/?username=29thir7ys3ven&label=Views&color=116262)
 # I'm Emmanuel A (aka @29THIR7YS3VEN) - Aspiring software developer with a passion for aesthetic interfaces and intuitive algorithms.
 ![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
