@@ -1,8 +1,7 @@
-![](https://komarev.com/ghpvc/?username=29thir7ys3ven&label=Views&color=116262)
-# I'm Emmanuel A (aka @29THIR7YS3VEN) - Aspiring software developer with a passion for aesthetic interfaces and intuitive algorithms.
-![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
-![spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
+# I'm Emmanuel A. (aka @29THIR7YS3VEN) - Aspiring software developer with a passion for aesthetic interfaces and intuitive algorithms.
+[![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/875406358122463302)
+[![reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/THIR7YS3VEN/)
+[![spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tjexz51m9ukvkdqwgyc9t1sgw?si=229ef8801561441e)
 ![be](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)
 ![codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 <br><br>
