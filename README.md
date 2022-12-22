@@ -3,7 +3,7 @@
 [![reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/THIR7YS3VEN/)
 [![spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tjexz51m9ukvkdqwgyc9t1sgw?si=229ef8801561441e)
 ![be](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)
-![codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
+[![codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/THIR7YS3VEN)
 <br><br>
 Sixteen years old. Coding since 2016, from Thailand to Rwanda. I build websites and applications in my free time, as well as experimenting with game development and AI. I work with a range of languages including Java, C, Python and Javascript.
 
