@@ -1,11 +1,10 @@
 # I'm Emmanuel A. (aka @29THIR7YS3VEN) - Aspiring software developer with a passion for aesthetic interfaces and intuitive algorithms.
-[![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/875406358122463302)
-[![reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/THIR7YS3VEN/)
-[![spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tjexz51m9ukvkdqwgyc9t1sgw?si=229ef8801561441e)
-![be](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)
-[![codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/THIR7YS3VEN)
-<br><br>
-Sixteen years old. Coding since 2016, from Thailand to Rwanda. I build websites and applications in my free time, as well as experimenting with game development and AI. I work with a range of languages including Java, C, Python and Javascript.
+
+As a teenage web developer, I am an ambitious individual who is dedicated to learning and growing in the world of technology. I have a strong passion for coding and creating, and am always looking for new and innovative ways to improve my skills. I am always eager to take on new challenges and am not afraid to experiment and try new things. My understanding of web development principles and practices has enabled me to create aesthetic and functional websites. Self taught since 2016, I am proficient in languages such as HTML, CSS, Python, and Javascript, as well as a range of frameworks including Flask and Angular. I am a dedicated and motivated learner who is always looking for ways to improve and stay current with the latest technologies.
+
+Aside from that, I'm a high schooler and a huge esports fan, and when I'm not coding, you can find me gaming, studying, and writing speculative fiction.
+
+If you would like to reach out to me with job or collaboration opportunities, or just to say hi, feel free to do so in any of my listed socials below
 
 ![29THIR7YS3VEN's GitHub stats](https://github-readme-stats.vercel.app/api?username=29thir7ys3ven&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=29thir7ys3ven&layout=compact&theme=transparent)
